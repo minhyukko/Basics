@@ -1,0 +1,6 @@
+Junio Hamano
+0
+0
+It updated the German translation.
+2.31.1.txt
+7

@@ -1,0 +1,2 @@
+./githubapi-get.sh $GITHUBTOKEN /repos/octocat/Hello-World/pulls?state=open | grep '"url":' > url.json
+./githubapi-get.sh $GITHUBTOKEN /repos/octocat/Hello-World/pulls?state=open | grep '"full_name":' > full_name.json
