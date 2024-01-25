@@ -1,4 +1,4 @@
-public class IntegerToRoman {
+public class Roman {
     public static String intToRoman(int num) {
         int[] values = { 1000, 500, 100, 50, 10, 5, 1 };
         String[] symbols = { "M", "D", "C", "L", "X", "V", "I" };
